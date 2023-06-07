@@ -1,4 +1,6 @@
-# <Study Guide Webpage>
+# Prework Study Guide Webpage
+
+## Description
 This study guide was developed for bootcamp students who were going through the Prework to help organize the information and make it more easily accesible. With this project, a solution was to build a website that would hold students' notes and keep track of all the things that were learned in the Prework in one place. It contains notes on HTML, CSS, git, and JavaScript. 
 
 ## Installation
